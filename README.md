@@ -1,4 +1,4 @@
-# Power-BI-Project---Insurance Risk & Claim Analysis
+# PowerBI Project---Insurance Risk & Claim Analysis
 
 ## Overview
 
